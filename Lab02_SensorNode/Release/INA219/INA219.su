@@ -1,0 +1,17 @@
+../INA219/INA219.c:10:7:INA219_Read_Reg	32	static
+../INA219/INA219.c:20:6:INA219_Write_Reg	32	static
+../INA219/INA219.c:28:10:INA219_ReadBusVoltage	8	static
+../INA219/INA219.c:36:9:INA219_ReadCurrent_raw	8	static
+../INA219/INA219.c:43:9:INA219_ReadCurrent	8	static
+../INA219/INA219.c:50:9:INA219_ReadPower	8	static
+../INA219/INA219.c:55:7:INA219_ReadShuntVolage	8	static
+../INA219/INA219.c:62:6:INA219_Reset	8	static
+../INA219/INA219.c:68:6:INA219_setCalibration	0	static
+../INA219/INA219.c:73:10:INA219_getConfig	8	static
+../INA219/INA219.c:79:6:INA219_setConfig	0	static
+../INA219/INA219.c:84:6:INA219_setCalibration_32V_2A	8	static
+../INA219/INA219.c:99:6:INA219_setCalibration_32V_1A	8	static
+../INA219/INA219.c:114:6:INA219_setCalibration_16V_400mA	8	static
+../INA219/INA219.c:129:6:INA219_setCalibration_12V_2A	8	static
+../INA219/INA219.c:142:6:INA219_setPowerMode	16	static
+../INA219/INA219.c:169:9:INA219_Init	16	static
