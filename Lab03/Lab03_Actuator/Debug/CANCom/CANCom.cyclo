@@ -1,0 +1,5 @@
+../CANCom/CANCom.c:9:6:CANCom_Init	1
+../CANCom/CANCom.c:22:6:CANCom_Transmit	1
+../CANCom/CANCom.c:32:6:Sensor_RecvHandle	2
+../CANCom/CANCom.c:44:6:Actuator_RecvHandle	4
+../CANCom/CANCom.c:55:6:CANCom_ReceiveCallback	1
