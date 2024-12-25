@@ -1,0 +1,4 @@
+../Diagnostic_Services/Tester_Diagnostic/Tester_Diagnostic.c:10:9:Tester_Init	2
+../Diagnostic_Services/Tester_Diagnostic/Tester_Diagnostic.c:15:9:Tester_ReadDataByID_RequestService	5
+../Diagnostic_Services/Tester_Diagnostic/Tester_Diagnostic.c:41:9:Tester_WriteDataByID_RequestService	4
+../Diagnostic_Services/Tester_Diagnostic/Tester_Diagnostic.c:62:9:Tester_SecurityAccess_RequestService	9

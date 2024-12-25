@@ -1,0 +1,4 @@
+../CanTP_Handler/CanTP.c:20:9:CanTP_Init	64	static
+../CanTP_Handler/CanTP.c:39:9:CanTP_Transmit	16	static
+../CanTP_Handler/CanTP.c:51:9:CanTP_Receive	40	static
+../CanTP_Handler/CanTP.c:94:6:CanTP_RcvCallback	48	static

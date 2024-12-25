@@ -1,0 +1,3 @@
+../Diagnostic_Services/DiagnosticDefine.c:4:6:KeyCalculate	1
+../Diagnostic_Services/DiagnosticDefine.c:26:6:DiagnosticService_Init	1
+../Diagnostic_Services/DiagnosticDefine.c:34:6:Diagnostic_Handler	1

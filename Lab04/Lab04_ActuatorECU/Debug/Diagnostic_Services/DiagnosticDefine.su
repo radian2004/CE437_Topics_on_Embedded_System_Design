@@ -1,0 +1,3 @@
+../Diagnostic_Services/DiagnosticDefine.c:5:6:KeyCalculate	16	static
+../Diagnostic_Services/DiagnosticDefine.c:27:9:DiagnosticService_Init	8	static
+../Diagnostic_Services/DiagnosticDefine.c:38:6:Diagnostic_Handler	16	static
