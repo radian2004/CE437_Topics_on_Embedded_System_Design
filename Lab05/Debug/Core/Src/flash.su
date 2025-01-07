@@ -1,0 +1,2 @@
+../Core/Src/flash.c:24:19:Flash_writeData	48	static
+../Core/Src/flash.c:37:10:Flash_readData	16	static
