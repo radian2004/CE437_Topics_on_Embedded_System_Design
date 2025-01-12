@@ -1,0 +1,6 @@
+../Core/Src/SERVO.c:4:6:Start_Servo	8	static
+../Core/Src/SERVO.c:11:10:Angle	24	static
+../Core/Src/SERVO.c:17:6:To_Default	8	static
+../Core/Src/SERVO.c:22:6:To_Angle	24	static
+../Core/Src/SERVO.c:36:6:Turn_Left	8	static
+../Core/Src/SERVO.c:42:6:Turn_Right	8	static

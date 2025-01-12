@@ -1,0 +1,2 @@
+../Core/Src/SIGNAL.c:13:9:Get_State	24	static
+../Core/Src/SIGNAL.c:37:9:Get_CounterState	16	static

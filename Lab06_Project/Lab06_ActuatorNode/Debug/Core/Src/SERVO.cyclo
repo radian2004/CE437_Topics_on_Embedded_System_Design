@@ -1,0 +1,6 @@
+../Core/Src/SERVO.c:4:6:Start_Servo	1
+../Core/Src/SERVO.c:11:10:Angle	1
+../Core/Src/SERVO.c:17:6:To_Default	1
+../Core/Src/SERVO.c:22:6:To_Angle	3
+../Core/Src/SERVO.c:36:6:Turn_Left	1
+../Core/Src/SERVO.c:42:6:Turn_Right	1
